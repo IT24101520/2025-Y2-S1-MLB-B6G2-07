@@ -32,12 +32,12 @@ Telecom companies lose millions of dollars every year due to customer churn (cus
 
 | Member ID | Role |
 |-----------|------|
-| IT2410 | Data Cleaning (handle missing/duplicate values, correct data types) |
-| ID2 | Encoding categorical variables |
-| ID2 | Outlier removal |
-| ID2 | Normalization/Scaling |
-| ID2 | Feature Selection |
-| ID2 | Dimensionality Reduction |
+| IT24102374 | Data Cleaning (handle missing/duplicate values, correct data types) |
+| IT24101376 | Encoding categorical variables |
+| IT24101551 | Outlier removal |
+| IT24101536 | Normalization/Scaling |
+| IT24101325 | Feature Selection |
+| IT24101520 | Dimensionality Reduction |
 
 ---
 
