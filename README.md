@@ -49,8 +49,8 @@ Telecom companies lose millions of dollars every year due to customer churn (cus
 4. **Handle outliers**
 5. **Normlaize and scale**
 6. **Feature Selection**
-7. **Appllu dimentionality reduction**
-8. **Apply visualizations using matplot.lib and seaborn**
+7. **Apply dimentionality reduction**
+8. **Apply visualizations using matplotlib and seaborn**
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 
