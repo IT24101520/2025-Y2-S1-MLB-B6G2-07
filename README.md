@@ -21,10 +21,6 @@ Telecom companies lose millions of dollars every year due to customer churn (cus
 | **Size** | 7043 customer records (rows) & 21 features (columns) |
 | **Target Variable** | Churn: `YES` (customer left) / `NO` (customer retained) |
 
-**Notes on Data Quality:**  
-- Check for missing values in each column using `df.isnull().sum()`.  
-- Identify duplicate rows using `df.duplicated().sum()`.  
-- Handle missing or duplicate values as part of data cleaning.
 
 ---
 
